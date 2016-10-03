@@ -1,2 +1,4 @@
 Henson's change on file2.txt
 
+file 2 file2 file 2 change change
+
